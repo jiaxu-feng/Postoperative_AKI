@@ -1,3 +1,8 @@
-# Predictive model of postoperative AKI in thoracic/abdominal aorta based on machine learning
+# Postoperative AKI Prediction Model
 
-Code coming soon...
+This repository contains the code for the paper: Predictive model of postoperative AKI in thoracic/abdominal aorta based on machine learning.
+
+- `aki_pred.ipynb`: The main code for data preprocessing, model training and evaluation.
+- `environment.yml`: The environment dependencies. Please use conda to create the environment.
+
+Note: This repository does not contain the data. Data are available from the authors upon reasonable request.
